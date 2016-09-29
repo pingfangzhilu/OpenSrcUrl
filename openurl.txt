@@ -1,0 +1,99 @@
+1、开源vlc 播放器源码下载链接地址
+	VLC官方网站：http://www.videolan.org/
+	VLC下载页面：http://www.videolan.org/vlc/
+	VLC下载目录（源码和安装包）：http://download.videolan.org/pub/videolan/vlc/
+	
+2、ffmpeg 官网下载地址
+	https://ffmpeg.org/download.html
+
+
+3、libcurl 下载地址
+	https://curl.haxx.se/download.html
+	libcurl主要功能就是用不同的协议连接和沟通不同的服务器~也就是相当封装了的sockPHP 支持libcurl（允许你用不同的协议连接和沟通不同的服务器）。, libcurl当前支持http, https, ftp, gopher, telnet, dict, file, 和ldap 协议。libcurl同样支持HTTPS证书授权，HTTP POST, HTTP PUT, FTP 上传（当然你也可以使用PHP的ftp扩展）, HTTP基本表单上传，代理，cookies,和用户认证。
+
+4、libopenssl 下载地址（https 搭建web 服务器通信）
+	https://www.openssl.org/source/
+
+5、librtmp 下载
+	git clone git://git.ffmpeg.org/rtmpdump
+
+6、libh265
+	git clone https://github.com/strukturag/libde265.git
+
+7、mplayer 播放器下载地址
+	http://www.mplayerhq.hu/design7/dload.html
+
+8、libmad mp3解码下载地址
+	http://download.chinaunix.net/download/0006000/5910.shtml
+
+9、libx264 h264压缩库下载地址
+	http://www.videolan.org/developers/x264.html
+
+10、音频解码下载地址
+无损压缩:
+	FLAC:
+		主页：https://xiph.org/flac/
+		下载：https://xiph.org/flac/download.html
+			http://alsaplayer.sourceforge.net/download.php?style=styles/Trinine/
+	APE:
+		主页：http://www.monkeysaudio.com/
+		下载：http://www.monkeysaudio.com/developers.html
+
+	ALAC:
+		主页：http://crazney.net/programs/itunes/alac.html
+		主页：http://alac.macosforge.org/
+
+	TTA:
+		主页：http://en.true-audio.com/
+		下载：http://en.true-audio.com/Free_Downloads
+
+	WavPack:
+		主页：http://www.wavpack.com/index.html
+		下载：http://www.wavpack.com/downloads.html
+有损压缩:
+	AAC:
+		名称：faad2
+		主页：http://www.audiocoding.com/
+		下载：http://www.audiocoding.com/downloads.html
+	名称：FDK AAC
+		下载：https://github.com/mstorsjo/fdk-aac
+
+
+	MPEG
+		名称：mpg123
+		主页：http://www.mpg123.de/
+		下载：http://sourceforge.net/projects/mpg123/
+	名称：MAD
+		主页：http://www.underbit.com/products/mad/
+		下载：http://sourceforge.net/projects/mad/
+
+
+	OGG
+		主页：http://xiph.org/ogg/
+		下载：http://www.xiph.org/downloads/
+
+	Musepack
+		主页：https://www.musepack.net/
+		下载：https://www.musepack.net/index.php?pg=src
+	其他:
+		MIDI
+		名称：timidity
+		主页：http://timidity.sourceforge.net/
+		下载：http://sourceforge.net/projects/timidity/
+	MODS
+		名称：Mikmod
+		主页：http://mikmod.raphnet.net/
+		下载：http://sourceforge.net/projects/mikmod/
+	名称：modplug
+		主页：http://modplug-xmms.sourceforge.net/
+		下载：http://sourceforge.net/projects/modplug-xmms/
+
+
+11、libevent 轻量级网络通信库下载地址
+	http://libevent.org
+
+12、redis 内存数据库(用户分布式管理很方便)
+	http://redis.io/download
+
+13、nginx 搭建web 服务器，做流媒体开发，配合ffmpeg /rtmpdump
+	http://nginx.org
